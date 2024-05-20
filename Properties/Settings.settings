@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SMT.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ROOT_RunApp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\172.28.10.12\DX Center\68. Phần mềm chặn băng tải\APPLICATION</Value>
+    </Setting>
+    <Setting Name="FileName_RUN" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SMT</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
